@@ -1,4 +1,4 @@
-git clone https://github.com/pragnyanalabola/lstm.git
+git clone https://github.com/pragnyanalabola/Stock_Price_Prediction.git
 
 cd lstm
 
